@@ -1,2 +1,2 @@
 # MyProject
-My Learning Project
+My First Learning Project
